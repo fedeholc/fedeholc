@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fedeholc
 - 👀 I’m interested in Wed Develpment
-- 🌱 I’m currently learning Angular, React, JAVA
-- 💞️ I’m looking to collaborate on open source projects.
+- 🌱 I’m currently learning React,NextJS, NodeJS
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 E-mail: federicoholc@gmail.com
